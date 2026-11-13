@@ -94,6 +94,24 @@ This project demonstrates how Power BI can be used to transform credit card tran
 
 It highlights the application of data analytics techniques to understand spending behaviour and support business decision-making in the financial services domain.
 
+
+## Dashboard Screenshots
+
+### Page 1 – Executive Overview
+![Executive Overview](Screenshots/Dashboard_Page_1.png)
+
+### Page 2 – Spending Trends
+![Spending Trends](Screenshots/Dashboard_Page_2.png)
+
+### Page 3 – Customer Analysis
+![Customer Analysis](Screenshots/Dashboard_Page_3.png)
+
+### Page 4 – Card & Expense Analysis
+![Card & Expense Analysis](Screenshots/Dashboard_Page_4.png)
+
+### Page 5 – Spending Performance
+![Spending Performance](Screenshots/Dashboard_Page_5.png)
+
 ---
 
 **Author:** Sachin Tyagi
